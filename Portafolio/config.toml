@@ -1,0 +1,5 @@
+baseURL = 'https://mfluevano.github.io/'
+languageCode = 'en-us'
+title = 'La maestria se consigue con trabajo duro'
+
+theme= 'toha'

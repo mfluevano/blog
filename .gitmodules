@@ -1,0 +1,8 @@
+[submodule "Portafolio/publico"]
+	path = Portafolio/publico
+	url = https://github.com/mfluevano/mfluevano.github.io.git
+	branch = main
+[submodule "Portafolio/public"]
+	path = Portafolio/public
+	url = https://github.com/mfluevano/mfluevano.github.io.git
+	branch = main
