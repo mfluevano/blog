@@ -6,3 +6,7 @@
 	path = Portafolio/public
 	url = https://github.com/mfluevano/mfluevano.github.io.git
 	branch = main
+[submodule "PortfolioFull/public"]
+	path = PortfolioFull/public
+	url = https://github.com/mfluevano/mfluevano.github.io.git
+	branch = deploy
